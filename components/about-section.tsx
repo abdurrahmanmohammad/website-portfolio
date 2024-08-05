@@ -53,7 +53,7 @@ const AboutSection = () => {
 
             <p>
               I graduated from San Jose State University in 2020 with a
-              Bachelor's in Computer Science and have worked in prestigious
+              Bachelor&#39;s in Computer Science and have worked in prestigious
               companies including Cognizant and Visa.
             </p>
             <br />
