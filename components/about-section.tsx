@@ -42,14 +42,14 @@ const AboutSection = () => {
           <div className="md:w-1/2">
             <h2 className="text-2xl font-semibold mb-6">Get to know me!</h2>
             <p className="mb-6">
-              Hello! I’m Abdurrahman, a passionate and driven software engineer
+              Hello! I&apos;m Abdurrahman, a passionate and driven software engineer
               based in Santa Clara, CA. I am constantly striving for growth,
               armed with a highly ambitious, self-motivated, and
               solution-oriented mindset.
             </p>
             <p className="mb-6">
-              I graduated with a Bachelor's in Computer Science from San Jose
-              State University in 2020. Over the years, I’ve had the opportunity
+              I graduated with a Bachelor&apos;s in Computer Science from San Jose
+              State University in 2020. Over the years, I&apos;ve had the opportunity
               to contribute to prestigious organizations like Cognizant and
               Visa, where I refined my skills in software engineering and
               problem-solving.
